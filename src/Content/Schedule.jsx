@@ -39,7 +39,6 @@ function Schedule() {
                     <td
                       className="thursday friday ts-item"
                       data-tsmeta="thursday"
-                      data-tsmeta="friday"
                     >
                       2:00PM - 3:30PM
                     </td>
