@@ -6,7 +6,6 @@ import Preloader from "./Preloader.jsx";
 function App() {
   return (
     <>
-      <Preloader />
       <Header />
       <Content />
       <Footer />
