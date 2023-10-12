@@ -1,16 +1,17 @@
-
-import './App.css'
-import { Routes, Route } from "react-router-dom";
+import Header from "./Header.jsx";
+import Content from "./Content.jsx";
+import Footer from "./Footer.jsx";
+import Preloader from "./Preloader.jsx";
 
 function App() {
-
   return (
-  <Routes>
-    <Route path="/1" element={<PageOne />} />
-    <Route path="/2" element={<div />} />
-    <Route path="/3" element={<div />} />
-  </Routes>
-)
+    <>
+      <Preloader />
+      <Header />
+      <Content />
+      <Footer />
+    </>
+  );
 }
 
-export default App
+export default App;
