@@ -15,19 +15,13 @@ function Header() {
                   </a>
                 </li>
                 <li className="scroll-to-section">
-                  <a href="#features">Rólunk</a>
-                </li>
-                <li className="scroll-to-section">
-                  <a href="#our-classes">Edzések</a>
-                </li>
-                <li className="scroll-to-section">
                   <a href="#schedule">Idöpontok</a>
                 </li>
                 <li className="scroll-to-section">
-                  <a href="#contact-us">Kapcsolat</a>
+                  <a href="#trainers">Kapcsolat</a>
                 </li>
                 <li className="main-button">
-                  <a href="#">Jelentkezz</a>
+                  <a href="#trainers">Jelentkezz</a>
                 </li>
               </ul>
               <a className="menu-trigger">

@@ -8,7 +8,7 @@ function ClassesSection() {
               <h2>
                 Our <em>Classes</em>
               </h2>
-              <img src="assets/images/line-dec.png" alt="" />
+              <img src="/images/line-dec.png" alt="" />
               <p>
                 Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed
                 viverra ipsum dolor, ultricies fermentum massa consequat eu.
@@ -21,25 +21,25 @@ function ClassesSection() {
             <ul>
               <li>
                 <a href="#tabs-1">
-                  <img src="assets/images/tabs-first-icon.png" alt="" />
+                  <img src="/images/tabs-first-icon.png" alt="" />
                   First Training Class
                 </a>
               </li>
               <li>
                 <a href="#tabs-2">
-                  <img src="assets/images/tabs-first-icon.png" alt="" />
+                  <img src="/images/tabs-first-icon.png" alt="" />
                   Second Training Class
                 </a>{" "}
               </li>
               <li>
                 <a href="#tabs-3">
-                  <img src="assets/images/tabs-first-icon.png" alt="" />
+                  <img src="/images/tabs-first-icon.png" alt="" />
                   Third Training Class
                 </a>
               </li>
               <li>
                 <a href="#tabs-4">
-                  <img src="assets/images/tabs-first-icon.png" alt="" />
+                  <img src="/images/tabs-first-icon.png" alt="" />
                   Fourth Training Class
                 </a>
               </li>
@@ -51,10 +51,7 @@ function ClassesSection() {
           <div className="col-lg-8">
             <section className="tabs-content">
               <article id="tabs-1">
-                <img
-                  src="assets/images/training-image-01.jpg"
-                  alt="First Class"
-                />
+                <img src="/images/training-image-01.jpg" alt="First Class" />
                 <h4>First Training Class</h4>
                 <p>
                   Phasellus convallis mauris sed elementum vulputate. Donec
@@ -69,7 +66,7 @@ function ClassesSection() {
               </article>
               <article id="tabs-2">
                 <img
-                  src="assets/images/training-image-02.jpg"
+                  src="/images/training-image-02.jpg"
                   alt="Second Training"
                 />
                 <h4>Second Training Class</h4>
@@ -86,10 +83,7 @@ function ClassesSection() {
                 </div>
               </article>
               <article id="tabs-3">
-                <img
-                  src="assets/images/training-image-03.jpg"
-                  alt="Third Class"
-                />
+                <img src="/images/training-image-03.jpg" alt="Third Class" />
                 <h4>Third Training Class</h4>
                 <p>
                   Fusce laoreet malesuada rhoncus. Donec ultricies diam tortor,
@@ -104,7 +98,7 @@ function ClassesSection() {
               </article>
               <article id="tabs-4">
                 <img
-                  src="assets/images/training-image-04.jpg"
+                  src="/images/training-image-04.jpg"
                   alt="Fourth Training"
                 />
                 <h4>Fourth Training Class</h4>

@@ -8,7 +8,7 @@ function FeaturesItem() {
               <h2>
                 Choose <em>Program</em>
               </h2>
-              <img src="assets/images/line-dec.png" alt="waves" />
+              <img src="/images/line-dec.png" alt="waves" />
               <p>
                 Training Studio is free CSS template for gyms and fitness
                 centers. You are allowed to use this layout for your business
@@ -20,10 +20,7 @@ function FeaturesItem() {
             <ul className="features-items">
               <li className="feature-item">
                 <div className="left-icon">
-                  <img
-                    src="assets/images/features-first-icon.png"
-                    alt="First One"
-                  />
+                  <img src="/images/features-first-icon.png" alt="First One" />
                 </div>
                 <div className="right-content">
                   <h4>Basic Fitness</h4>
@@ -38,10 +35,7 @@ function FeaturesItem() {
               </li>
               <li className="feature-item">
                 <div className="left-icon">
-                  <img
-                    src="assets/images/features-first-icon.png"
-                    alt="second one"
-                  />
+                  <img src="/images/features-first-icon.png" alt="second one" />
                 </div>
                 <div className="right-content">
                   <h4>New Gym Training</h4>
@@ -57,7 +51,7 @@ function FeaturesItem() {
               <li className="feature-item">
                 <div className="left-icon">
                   <img
-                    src="assets/images/features-first-icon.png"
+                    src="/images/features-first-icon.png"
                     alt="third gym training"
                   />
                 </div>
@@ -86,7 +80,7 @@ function FeaturesItem() {
               <li className="feature-item">
                 <div className="left-icon">
                   <img
-                    src="assets/images/features-first-icon.png"
+                    src="/images/features-first-icon.png"
                     alt="fourth muscle"
                   />
                 </div>
@@ -113,7 +107,7 @@ function FeaturesItem() {
               <li className="feature-item">
                 <div className="left-icon">
                   <img
-                    src="assets/images/features-first-icon.png"
+                    src="/images/features-first-icon.png"
                     alt="training fifth"
                   />
                 </div>
@@ -131,7 +125,7 @@ function FeaturesItem() {
               <li className="feature-item">
                 <div className="left-icon">
                   <img
-                    src="assets/images/features-first-icon.png"
+                    src="/images/features-first-icon.png"
                     alt="gym training"
                   />
                 </div>
