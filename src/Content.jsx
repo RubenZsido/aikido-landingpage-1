@@ -4,6 +4,7 @@ import CallToAction from "./Content/CallToAction.jsx";
 import Schedule from "./Content/Schedule.jsx";
 import Trainers from "./Content/Trainers.jsx";
 import Contact from "./Content/Contact.jsx";
+import Gallery from "./Content/Gallery.jsx";
 
 function Content() {
   return (
@@ -13,6 +14,7 @@ function Content() {
       <CallToAction />
       <Schedule />
       <Trainers />
+      <Gallery />
       <Contact />
     </>
   );

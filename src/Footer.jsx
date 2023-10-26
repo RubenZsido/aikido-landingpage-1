@@ -5,15 +5,8 @@ function Footer() {
         <div className="row">
           <div className="col-lg-12">
             <p>
-              Copyright &copy; 2020 Training Studio - Designed by{" "}
-              <a
-                rel="nofollow"
-                href="https://templatemo.com"
-                className="tm-text-link"
-                target="_parent"
-              >
-                TemplateMo
-              </a>
+              Helyszín: Győr, Bercsényi Liget 22.{" "}
+              <p>Telefon: +36 70 378-3784</p>{" "}
             </p>
           </div>
         </div>

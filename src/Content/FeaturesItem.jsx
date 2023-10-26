@@ -6,13 +6,15 @@ function FeaturesItem() {
           <div className="col-lg-6 offset-lg-3">
             <div className="section-heading">
               <h2>
-                Choose <em>Program</em>
+                Professzionális <em>Edzések</em>
               </h2>
               <img src="/images/line-dec.png" alt="waves" />
               <p>
-                Training Studio is free CSS template for gyms and fitness
-                centers. You are allowed to use this layout for your business
-                website.
+                Aikido klubunk mindig szívesen fogad új tagokat, és nem
+                szükséges hozzá előzetes tapasztalat. Mindenkit szívesen látunk,
+                akár kezdő, akár tapasztalt harcművész vagy. Az első hetekben és
+                hónapokban elég egy melegítő alsó és egy fehér póló az
+                edzésekhez.
               </p>
             </div>
           </div>
@@ -23,14 +25,10 @@ function FeaturesItem() {
                   <img src="/images/features-first-icon.png" alt="First One" />
                 </div>
                 <div className="right-content">
-                  <h4>Basic Fitness</h4>
+                  <h4>Professzionális oktatók</h4>
                   <p>
-                    Please do not re-distribute this template ZIP file on any
-                    template collection website. This is not allowed.
+                    Tapasztalt és képzett oktatóink segítenek a fejlődésedben.
                   </p>
-                  <a href="#" className="text-button">
-                    Discover More
-                  </a>
                 </div>
               </li>
               <li className="feature-item">
@@ -38,14 +36,11 @@ function FeaturesItem() {
                   <img src="/images/features-first-icon.png" alt="second one" />
                 </div>
                 <div className="right-content">
-                  <h4>New Gym Training</h4>
+                  <h4>Egészség</h4>
                   <p>
-                    If you wish to support TemplateMo website via PayPal, please
-                    feel free to contact us. We appreciate it a lot.
+                    Az Aikido rendszeres gyakorlása erősíti az izmokat, javítja
+                    az állóképességet
                   </p>
-                  <a href="#" className="text-button">
-                    Discover More
-                  </a>
                 </div>
               </li>
               <li className="feature-item">
@@ -56,21 +51,12 @@ function FeaturesItem() {
                   />
                 </div>
                 <div className="right-content">
-                  <h4>Basic Muscle Course</h4>
+                  <h4>Önvédelem</h4>
                   <p>
-                    Credit goes to{" "}
-                    <a
-                      rel="nofollow noreferrer"
-                      href="https://www.pexels.com"
-                      target="_blank"
-                    >
-                      Pexels website
-                    </a>{" "}
-                    for images and video background used in this HTML template.
+                    Az Aikido hatékony önvédelmi rendszer, amely a békés
+                    konfliktusmegoldás és az ellenfél erőinek kihasználása
+                    mellett segít a veszélyes helyzetek elkerülésében.
                   </p>
-                  <a href="#" className="text-button">
-                    Discover More
-                  </a>
                 </div>
               </li>
             </ul>
@@ -85,23 +71,11 @@ function FeaturesItem() {
                   />
                 </div>
                 <div className="right-content">
-                  <h4>Advanced Muscle Course</h4>
+                  <h4>Barátságos közösség</h4>
                   <p>
-                    You may want to browse through{" "}
-                    <a
-                      rel="nofollow"
-                      href="https://templatemo.com/tag/digital-marketing"
-                      target="_parent"
-                    >
-                      Digital Marketing
-                    </a>{" "}
-                    or{" "}
-                    <a href="https://templatemo.com/tag/corporate">Corporate</a>{" "}
-                    HTML CSS templates on our website.
+                    Csatlakozz közösségünkhöz, ahol mindenkit szívesen látunk,
+                    és együtt fejlődünk.
                   </p>
-                  <a href="#" className="text-button">
-                    Discover More
-                  </a>
                 </div>
               </li>
               <li className="feature-item">
@@ -112,14 +86,11 @@ function FeaturesItem() {
                   />
                 </div>
                 <div className="right-content">
-                  <h4>Yoga Training</h4>
+                  <h4>Biztonság</h4>
                   <p>
-                    This template is built on Bootstrap v4.3.1 framework. It is
-                    easy to adapt the columns and sections.
+                    Az edzésen ügyelünk egymás testi épségére, minimalizáljuk a
+                    sérüléseket.
                   </p>
-                  <a href="#" className="text-button">
-                    Discover More
-                  </a>
                 </div>
               </li>
               <li className="feature-item">
@@ -130,14 +101,11 @@ function FeaturesItem() {
                   />
                 </div>
                 <div className="right-content">
-                  <h4>Body Building Course</h4>
+                  <h4>Önbizalom</h4>
                   <p>
-                    Suspendisse fringilla et nisi et mattis. Curabitur sed
-                    finibus nisi. Integer nibh sapien, vehicula et auctor.
+                    Az Aikido nemcsak testi erőt fejleszt, hanem kiemelkedően
+                    hozzájárul az önbizalom növeléséhez is.
                   </p>
-                  <a href="#" className="text-button">
-                    Discover More
-                  </a>
                 </div>
               </li>
             </ul>

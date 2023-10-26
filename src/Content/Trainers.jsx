@@ -29,14 +29,14 @@ function Trainers() {
                 <span>Aikido Edző</span>
                 <h4>Dr. Tóth István</h4>
                 <p>
-                  Bitters cliche tattooed 8-bit distillery mustache. Keytar
-                  succulents gluten-free vegan church-key pour-over seitan
-                  flannel.
+                  Dr. Tóth István 6. danos instruktor, a klub főinstruktora, aki
+                  hatalmas tudással és elkötelezettséggel oktatja az Aikido
+                  művészetét.
                 </p>
                 <p>
                   Elérthetőségek:{" "}
                   <p>
-                    +36 20 368-4797 <p>tothi416@msn.com</p>
+                    <span> +36 20 368-4797</span> <p>tothi416@msn.com</p>
                   </p>{" "}
                 </p>
               </div>
@@ -51,15 +51,17 @@ function Trainers() {
                 />
               </div>
               <div className="down-content">
-                <span>Aikido és Box Edző</span>
+                <span>Aikido Segédedző És Box Edző</span>
                 <h4>Nagy Péter</h4>
                 <p>
-                  Bitters cliche tattooed 8-bit distillery mustache. Keytar
-                  succulents gluten-free vegan church-key pour-over seitan
-                  flannel.
+                  Nagy Péter, a klub segédedzője, egy 4. danos Aikido és box
+                  edző, aki szenvedélyesen oktat és inspirálja a tanítványokat.
                 </p>
                 <p>
-                  Elérhetőségek: <p>+36 70 378-3784</p>
+                  Elérhetőségek:
+                  <p>
+                    <span>+36 70 378-3784</span>
+                  </p>
                 </p>
               </div>
             </div>

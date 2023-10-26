@@ -7,9 +7,9 @@ function MainBanner() {
 
       <div className="video-overlay header-text">
         <div className="caption">
-          <h6>work harder, get stronger</h6>
+          <h6>Üdvözlünk Győr legrégebbi Aikido klubjának honlapján</h6>
           <h2>
-            asahi <em>SE</em> - Aikido edzések győrben
+            Aikido edzések <em>győrben</em>
           </h2>
           <div className="main-button scroll-to-section">
             <a href="#trainers">Jelentkezz</a>

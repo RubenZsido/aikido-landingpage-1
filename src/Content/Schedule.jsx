@@ -10,8 +10,8 @@ function Schedule() {
               </h2>
               <img src="assets/images/line-dec.png" alt="" />
               <p>
-                Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed
-                viverra ipsum dolor, ultricies fermentum massa consequat eu.
+                Tekintsd meg az edzéseink időpontjait, hogy könnyedén megtaláld
+                a hozzád legjobban passzolót!
               </p>
             </div>
           </div>
@@ -29,7 +29,6 @@ function Schedule() {
                     <td className="tuesday ts-item" data-tsmeta="tuesday">
                       2:00PM - 3:30PM
                     </td>
-                    <td>William G. Stewart</td>
                   </tr>
                   <tr>
                     <td className="day-time">Kedd</td>
@@ -42,7 +41,6 @@ function Schedule() {
                     >
                       2:00PM - 3:30PM
                     </td>
-                    <td>Paul D. Newman</td>
                   </tr>
                   <tr>
                     <td className="day-time">Szerda</td>
@@ -52,7 +50,6 @@ function Schedule() {
                     <td className="monday ts-item show" data-tsmeta="monday">
                       2:00PM - 3:30PM
                     </td>
-                    <td>Boyd C. Harris</td>
                   </tr>
                   <tr>
                     <td className="day-time">Csütörtök</td>
@@ -62,7 +59,6 @@ function Schedule() {
                     <td className="friday ts-item" data-tsmeta="friday">
                       2:00PM - 3:30PM
                     </td>
-                    <td>Hector T. Daigle</td>
                   </tr>
                   <tr>
                     <td className="day-time">Péntek</td>
@@ -72,7 +68,6 @@ function Schedule() {
                     <td className="wednesday ts-item" data-tsmeta="wednesday">
                       2:00PM - 3:30PM
                     </td>
-                    <td>Bret D. Bowers</td>
                   </tr>
                   <tr>
                     <td className="day-time">Szombat</td>
@@ -82,7 +77,6 @@ function Schedule() {
                     <td className="wednesday ts-item" data-tsmeta="wednesday">
                       2:00PM - 3:30PM
                     </td>
-                    <td>Bret D. Bowers</td>
                   </tr>
                   <tr>
                     <td className="day-time">Vasárnap</td>
@@ -92,7 +86,6 @@ function Schedule() {
                     <td className="wednesday ts-item" data-tsmeta="wednesday">
                       2:00PM - 3:30PM
                     </td>
-                    <td>Bret D. Bowers</td>
                   </tr>
                 </tbody>
               </table>

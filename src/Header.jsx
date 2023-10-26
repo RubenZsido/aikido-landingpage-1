@@ -20,6 +20,9 @@ function Header() {
                 <li className="scroll-to-section">
                   <a href="#trainers">Kapcsolat</a>
                 </li>
+                <li className="scroll-to-section">
+                  <a href="#contact-us">Helyszín</a>
+                </li>
                 <li className="main-button">
                   <a href="#trainers">Jelentkezz</a>
                 </li>
