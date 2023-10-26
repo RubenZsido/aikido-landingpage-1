@@ -1,3 +1,4 @@
+import "bootstrap/dist/css/bootstrap.min.css";
 const Gallery = () => (
   <section className="section" id="gallery">
     <div
