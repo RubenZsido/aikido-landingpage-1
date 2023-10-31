@@ -9,31 +9,25 @@ const Gallery = () => (
     >
       <div className="carousel-inner">
         <div className="carousel-item active">
-          <div className="image-container">
-            <img
-              className="d-block img-fluid"
-              src="https://www.aikido-gyor.hu/wp-content/uploads/photo-gallery/Edz%C3%A9sen/edzes_1-01.jpg?bwg=1550586464"
-              alt="First slide"
-            />
-          </div>
+          <img
+            className="d-block img-fluid w-100"
+            src="https://www.aikido-gyor.hu/wp-content/uploads/photo-gallery/Edz%C3%A9sen/edzes_1-01.jpg?bwg=1550586464"
+            alt="First slide"
+          />
         </div>
         <div className="carousel-item">
-          <div className="image-container">
-            <img
-              className="d-block img-fluid"
-              src="https://www.aikido-gyor.hu/wp-content/uploads/photo-gallery/Edzotabor_2011/1104_tabor_13-01.jpg?bwg=1550586184"
-              alt="Second slide"
-            />
-          </div>
+          <img
+            className="d-block img-fluid w-100"
+            src="https://www.aikido-gyor.hu/wp-content/uploads/photo-gallery/Edzotabor_2011/1104_tabor_13-01.jpg?bwg=1550586184"
+            alt="Second slide"
+          />
         </div>
         <div className="carousel-item">
-          <div className="image-container">
-            <img
-              className="d-block img-fluid"
-              src="https://www.aikido-gyor.hu/wp-content/uploads/photo-gallery/Edzotabor_2011/1104_tabor_4-01.jpg?bwg=1550586184"
-              alt="Third slide"
-            />
-          </div>
+          <img
+            className="d-block img-fluid w-100"
+            src="https://www.aikido-gyor.hu/wp-content/uploads/photo-gallery/Edzotabor_2011/1104_tabor_4-01.jpg?bwg=1550586184"
+            alt="Third slide"
+          />
         </div>
       </div>
       <a
