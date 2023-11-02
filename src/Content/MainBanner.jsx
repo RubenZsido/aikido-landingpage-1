@@ -12,7 +12,7 @@ function MainBanner() {
             Aikido edzések <em>győrben</em>
           </h2>
           <div className="main-button scroll-to-section">
-            <a href="#trainers">Jelentkezz</a>
+            <a href="#contact-this">Jelentkezz</a>
           </div>
         </div>
       </div>

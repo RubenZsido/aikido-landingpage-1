@@ -24,7 +24,7 @@ function Header() {
                   <a href="#contact-us">Helyszín</a>
                 </li>
                 <li className="main-button">
-                  <a href="#trainers">Jelentkezz</a>
+                  <a href="#contact-this">Jelentkezz</a>
                 </li>
               </ul>
               <a className="menu-trigger">

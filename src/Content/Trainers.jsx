@@ -43,7 +43,7 @@ function Trainers() {
               <div className="image-thumb">
                 <img src="/images/Trainer2.JPEG" alt="" />
               </div>
-              <div className="down-content">
+              <div className="down-content" id="contact-this">
                 <span>Aikido Segédedző És Box Edző</span>
                 <h4>Nagy Péter</h4>
                 <p>
