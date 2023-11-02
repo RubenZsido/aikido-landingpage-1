@@ -45,7 +45,7 @@ function Trainers() {
           <div className="col-lg-6">
             <div className="trainer-item">
               <div className="image-thumb">
-                <img src="/public/images/Trainer2.jpeg" alt="" />
+                <img src="/images/Trainer2.JPEG" alt="" />
               </div>
               <div className="down-content">
                 <span>Aikido Segédedző És Box Edző</span>
