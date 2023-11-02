@@ -45,10 +45,7 @@ function Trainers() {
           <div className="col-lg-6">
             <div className="trainer-item">
               <div className="image-thumb">
-                <img
-                  src="https://www.aikido-gyor.hu/wp-content/uploads/2019/04/Nagy_P_kicsi.jpg"
-                  alt=""
-                />
+                <img src="/public/images/Trainer2.jpeg" alt="" />
               </div>
               <div className="down-content">
                 <span>Aikido Segédedző És Box Edző</span>

@@ -10,18 +10,10 @@ const Gallery = () => (
         />
       </div>
       <div className="carousel-item">
-        <img
-          src="https://www.aikido-gyor.hu/wp-content/uploads/photo-gallery/Edz%C3%A9sen/edzes_1-01.jpg?bwg=1550586464"
-          className="d-block w-100"
-          alt="..."
-        />
+        <img src="/images/team2.JPEG" className="d-block w-100" alt="..." />
       </div>
       <div className="carousel-item">
-        <img
-          src="https://www.aikido-gyor.hu/wp-content/uploads/photo-gallery/Edz%C3%A9sen/edzes_1-01.jpg?bwg=1550586464"
-          className="d-block w-100"
-          alt="..."
-        />
+        <img src="/images/team1.jpg" className="d-block w-100" alt="..." />
       </div>
     </div>
     <button
