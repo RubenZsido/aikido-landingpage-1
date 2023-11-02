@@ -9,10 +9,7 @@ function Trainers() {
                 Szakértő <em>Edzők</em>
               </h2>
               <img src="assets/images/line-dec.png" alt="" />
-              <p>
-                Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed
-                viverra ipsum dolor, ultricies fermentum massa consequat eu.
-              </p>
+              <p></p>
             </div>
           </div>
         </div>
@@ -33,12 +30,11 @@ function Trainers() {
                   hatalmas tudással és elkötelezettséggel oktatja az Aikido
                   művészetét.
                 </p>
-                <p>
-                  Elérthetőségek:{" "}
-                  <p>
-                    <span> +36 20 368-4797</span> <p>tothi416@msn.com</p>
-                  </p>{" "}
+                <p style={{ margin: "0px" }}>Elérthetőségek: </p>
+                <p style={{ margin: "0px" }}>
+                  <span style={{ margin: "0px" }}> +36 20 368-4797</span>
                 </p>
+                <p>tothi416@msn.com</p>
               </div>
             </div>
           </div>
@@ -54,11 +50,9 @@ function Trainers() {
                   Nagy Péter, a klub segédedzője, egy 4. danos Aikido és box
                   edző, aki szenvedélyesen oktat és inspirálja a tanítványokat.
                 </p>
+                <p style={{ margin: "0px" }}>Elérhetőségek:</p>
                 <p>
-                  Elérhetőségek:
-                  <p>
-                    <span>+36 70 378-3784</span>
-                  </p>
+                  <span style={{ margin: "0px" }}>+36 70 378-3784</span>
                 </p>
               </div>
             </div>
