@@ -8,7 +8,7 @@ function FeaturesItem() {
               <h2>
                 Professzionális <em>Edzések</em>
               </h2>
-              <img src="/images/line-dec.png" alt="waves" />
+              <img src="images/line-dec.png" alt="waves" />
               <p>
                 Aikido klubunk mindig szívesen fogad új tagokat, és nem
                 szükséges hozzá előzetes tapasztalat. Mindenkit szívesen látunk,

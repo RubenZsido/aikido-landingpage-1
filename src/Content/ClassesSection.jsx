@@ -8,7 +8,7 @@ function ClassesSection() {
               <h2>
                 Our <em>Classes</em>
               </h2>
-              <img src="/images/line-dec.png" alt="" />
+              <img src="images/line-dec.png" alt="" />
               <p>
                 Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed
                 viverra ipsum dolor, ultricies fermentum massa consequat eu.

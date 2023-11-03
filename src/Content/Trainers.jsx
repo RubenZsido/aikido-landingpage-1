@@ -8,7 +8,7 @@ function Trainers() {
               <h2>
                 Szakértő <em>Edzők</em>
               </h2>
-              <img src="assets/images/line-dec.png" alt="" />
+              <img src="images/line-dec.png" alt="" />
               <p></p>
             </div>
           </div>

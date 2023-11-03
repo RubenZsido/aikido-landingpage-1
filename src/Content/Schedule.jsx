@@ -8,7 +8,7 @@ function Schedule() {
               <h2>
                 Edzések <em>Időpontjai</em>
               </h2>
-              <img src="assets/images/line-dec.png" alt="" />
+              <img src="images/line-dec.png" alt="" />
               <p>
                 Tekintsd meg az edzéseink időpontjait, hogy könnyedén megtaláld
                 a hozzád legjobban passzolót!
