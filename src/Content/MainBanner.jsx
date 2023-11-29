@@ -2,7 +2,7 @@ function MainBanner() {
   return (
     <div className="main-banner" id="top">
       <video autoPlay muted loop id="bg-video">
-        <source src="/images/aikido_stock.mp4" type="video/mp4" />
+        <source src="./images/25.mp4" type="video/mp4" />
       </video>
 
       <div className="video-overlay header-text">

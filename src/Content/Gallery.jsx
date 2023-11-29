@@ -3,17 +3,37 @@ const Gallery = () => (
   <div id="carouselExample" className="carousel slide">
     <div className="carousel-inner">
       <div className="carousel-item active">
+        <img src="\images\1_kardok.JPG" className="d-block w-100" alt="terem" />
+      </div>
+      <div className="carousel-item">
+        <img src="\images\2_falkep.JPG" className="d-block w-100" alt="terem" />
+      </div>
+      <div className="carousel-item">
+        <img src="\images\3_edzes.JPG" className="d-block w-100" alt="edzés" />
+      </div>
+      <div className="carousel-item">
+        <img src="\images\4_edzes.JPG" className="d-block w-100" alt="edzés" />
+      </div>
+      <div className="carousel-item">
         <img
-          src="https://www.aikido-gyor.hu/wp-content/uploads/photo-gallery/Edz%C3%A9sen/edzes_1-01.jpg?bwg=1550586464"
+          src="\images\5_hajlongas.ARW"
           className="d-block w-100"
-          alt="..."
+          alt="alázat"
         />
       </div>
       <div className="carousel-item">
-        <img src="/images/team2.JPEG" className="d-block w-100" alt="..." />
+        <img
+          src="\images\6_csoportkep.ARW"
+          className="d-block w-100"
+          alt="csoportlkép"
+        />
       </div>
       <div className="carousel-item">
-        <img src="/images/team1.jpg" className="d-block w-100" alt="..." />
+        <img
+          src="\images\7_csoportkep.ARW"
+          className="d-block w-100"
+          alt="7_csoportkep"
+        />
       </div>
     </div>
     <button
