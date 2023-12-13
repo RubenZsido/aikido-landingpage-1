@@ -12,9 +12,11 @@ function FeaturesItem() {
               <p>
                 Aikido klubunk mindig szívesen fogad új tagokat, és nem
                 szükséges hozzá előzetes tapasztalat. Mindenkit szívesen látunk,
-                akár kezdő, akár tapasztalt harcművész vagy. Az első hetekben és
-                hónapokban elég egy melegítő alsó és egy fehér póló az
-                edzésekhez.
+                akár kezdő, akár tapasztalt harcművész vagy.
+              </p>
+              <p>
+                Az első hetekben és hónapokban elég egy melegítő alsó és egy
+                fehér póló az edzésekhez.
               </p>
             </div>
           </div>
@@ -22,7 +24,7 @@ function FeaturesItem() {
             <ul className="features-items">
               <li className="feature-item">
                 <div className="left-icon">
-                  <img src="/images/features-first-icon.png" alt="First One" />
+                  <img src="\images\Icons\expert.png" alt="First One" />
                 </div>
                 <div className="right-content">
                   <h4>Professzionális oktatók</h4>
@@ -33,7 +35,7 @@ function FeaturesItem() {
               </li>
               <li className="feature-item">
                 <div className="left-icon">
-                  <img src="/images/features-first-icon.png" alt="second one" />
+                  <img src="\images\Icons\health.png" alt="second one" />
                 </div>
                 <div className="right-content">
                   <h4>Egészség</h4>
@@ -46,16 +48,15 @@ function FeaturesItem() {
               <li className="feature-item">
                 <div className="left-icon">
                   <img
-                    src="/images/features-first-icon.png"
+                    src="\images\Icons\defence.png"
                     alt="third gym training"
                   />
                 </div>
                 <div className="right-content">
                   <h4>Önvédelem</h4>
                   <p>
-                    Az Aikido hatékony önvédelmi rendszer, amely a békés
-                    konfliktusmegoldás és az ellenfél erőinek kihasználása
-                    mellett segít a veszélyes helyzetek elkerülésében.
+                    Az ellenfél erőinek kihasználása mellett segít a veszélyes
+                    helyzetek elkerülésében.
                   </p>
                 </div>
               </li>
@@ -65,10 +66,7 @@ function FeaturesItem() {
             <ul className="features-items">
               <li className="feature-item">
                 <div className="left-icon">
-                  <img
-                    src="/images/features-first-icon.png"
-                    alt="fourth muscle"
-                  />
+                  <img src="\images\Icons\community.png" alt="fourth muscle" />
                 </div>
                 <div className="right-content">
                   <h4>Barátságos közösség</h4>
@@ -80,10 +78,7 @@ function FeaturesItem() {
               </li>
               <li className="feature-item">
                 <div className="left-icon">
-                  <img
-                    src="/images/features-first-icon.png"
-                    alt="training fifth"
-                  />
+                  <img src="\images\Icons\boxing.png" alt="training fifth" />
                 </div>
                 <div className="right-content">
                   <h4>Biztonság</h4>
@@ -95,16 +90,13 @@ function FeaturesItem() {
               </li>
               <li className="feature-item">
                 <div className="left-icon">
-                  <img
-                    src="/images/features-first-icon.png"
-                    alt="gym training"
-                  />
+                  <img src="\images\Icons\confidence.png" alt="gym training" />
                 </div>
                 <div className="right-content">
                   <h4>Önbizalom</h4>
                   <p>
-                    Az Aikido nemcsak testi erőt fejleszt, hanem kiemelkedően
-                    hozzájárul az önbizalom növeléséhez is.
+                    Nemcsak testi erőt fejleszt, hanem kiemelkedően hozzájárul
+                    az önbizalom növeléséhez is.
                   </p>
                 </div>
               </li>

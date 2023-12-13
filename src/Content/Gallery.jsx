@@ -14,27 +14,6 @@ const Gallery = () => (
       <div className="carousel-item">
         <img src="\images\4_edzes.JPG" className="d-block w-100" alt="edzés" />
       </div>
-      <div className="carousel-item">
-        <img
-          src="\images\5_hajlongas.ARW"
-          className="d-block w-100"
-          alt="alázat"
-        />
-      </div>
-      <div className="carousel-item">
-        <img
-          src="\images\6_csoportkep.ARW"
-          className="d-block w-100"
-          alt="csoportlkép"
-        />
-      </div>
-      <div className="carousel-item">
-        <img
-          src="\images\7_csoportkep.ARW"
-          className="d-block w-100"
-          alt="7_csoportkep"
-        />
-      </div>
     </div>
     <button
       className="carousel-control-prev"
