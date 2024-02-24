@@ -17,10 +17,7 @@ function Trainers() {
           <div className="col-lg-6">
             <div className="trainer-item">
               <div className="image-thumb">
-                <img
-                  src="https://www.aikido-gyor.hu/wp-content/uploads/2019/04/Toth_I_3_kicsi.jpg"
-                  alt=""
-                />
+                <img src="images/toth_istvan.jpg" alt="" />
               </div>
               <div className="down-content">
                 <span>Aikido Edző</span>
@@ -41,7 +38,7 @@ function Trainers() {
           <div className="col-lg-6">
             <div className="trainer-item">
               <div className="image-thumb">
-                <img src="/images/Trainer2.JPEG" alt="" />
+                <img src="images/nagy_peter.jpg" alt="" />
               </div>
               <div className="down-content" id="contact-this">
                 <span>Aikido Segédedző És Box Edző</span>

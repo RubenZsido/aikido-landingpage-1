@@ -24,67 +24,55 @@ function Schedule() {
                   <tr>
                     <td className="day-time">Hétfő</td>
                     <td className="monday ts-item show" data-tsmeta="monday">
-                      10:00AM - 11:30AM
-                    </td>
-                    <td className="tuesday ts-item" data-tsmeta="tuesday">
-                      2:00PM - 3:30PM
+                      18:00 - 19:30
                     </td>
                   </tr>
                   <tr>
                     <td className="day-time">Kedd</td>
-                    <td className="friday ts-item" data-tsmeta="friday">
+                    <td className="friday ts-item show" data-tsmeta="friday">
                       10:00AM - 11:30AM
-                    </td>
-                    <td
-                      className="thursday friday ts-item"
-                      data-tsmeta="thursday"
-                    >
-                      2:00PM - 3:30PM
                     </td>
                   </tr>
                   <tr>
                     <td className="day-time">Szerda</td>
-                    <td className="tuesday ts-item" data-tsmeta="tuesday">
-                      10:00AM - 11:30AM
-                    </td>
-                    <td className="monday ts-item show" data-tsmeta="monday">
-                      2:00PM - 3:30PM
+                    <td className="tuesday ts-item show" data-tsmeta="tuesday">
+                      18:00 - 19:30
                     </td>
                   </tr>
                   <tr>
                     <td className="day-time">Csütörtök</td>
-                    <td className="wednesday ts-item" data-tsmeta="wednesday">
+                    <td
+                      className="wednesday ts-item show"
+                      data-tsmeta="wednesday"
+                    >
                       10:00AM - 11:30AM
-                    </td>
-                    <td className="friday ts-item" data-tsmeta="friday">
-                      2:00PM - 3:30PM
                     </td>
                   </tr>
                   <tr>
                     <td className="day-time">Péntek</td>
-                    <td className="thursday ts-item" data-tsmeta="thursday">
-                      10:00AM - 11:30AM
-                    </td>
-                    <td className="wednesday ts-item" data-tsmeta="wednesday">
-                      2:00PM - 3:30PM
+                    <td
+                      className="thursday ts-item show"
+                      data-tsmeta="thursday"
+                    >
+                      18:00 - 19:30
                     </td>
                   </tr>
                   <tr>
                     <td className="day-time">Szombat</td>
-                    <td className="thursday ts-item" data-tsmeta="thursday">
-                      10:00AM - 11:30AM
-                    </td>
-                    <td className="wednesday ts-item" data-tsmeta="wednesday">
-                      2:00PM - 3:30PM
+                    <td
+                      className="thursday ts-item show"
+                      data-tsmeta="thursday"
+                    >
+                      7:00 - 8:00
                     </td>
                   </tr>
                   <tr>
                     <td className="day-time">Vasárnap</td>
-                    <td className="thursday ts-item" data-tsmeta="thursday">
-                      10:00AM - 11:30AM
-                    </td>
-                    <td className="wednesday ts-item" data-tsmeta="wednesday">
-                      2:00PM - 3:30PM
+                    <td
+                      className="thursday ts-item show"
+                      data-tsmeta="thursday"
+                    >
+                      7:00 - 8:00
                     </td>
                   </tr>
                 </tbody>
